@@ -27,8 +27,7 @@
         }
       }
     }
-  }
-},
+  },
   "globalHeaders": {
     "Cache-Control": "no-cache"
   }
