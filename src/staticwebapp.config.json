@@ -18,5 +18,12 @@
   },
   "globalHeaders": {
     "Cache-Control": "no-cache"
+  },
+   "networking": {
+    "allowedIpRanges": [
+      "10.0.0.0/24",
+      "101.188.67.135/32",
+      "192.168.100.0/22"
+    ]
   }
 }
