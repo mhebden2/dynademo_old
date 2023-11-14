@@ -2,17 +2,6 @@
   "routes": [
     {
       "route": "/authenticated/*",
-      "allowedRoles": ["authenticated"]
-    }
-  ]
-}
-
-
-
-{
-  "routes": [
-    {
-      "route": "/authenticated/*",
       "allowedRoles": [ "authenticated" ]
     }
   ],
